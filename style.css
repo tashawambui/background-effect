@@ -1,0 +1,15 @@
+#div1{
+height: 250px;
+width: 400px;
+background: linear-gradient(orangered,purple);
+}
+#div2{
+height: 250px;
+width: 400px;
+ background: linear-gradient(orangered,cyan);
+}
+#div3{
+height: 250px;
+width: 400px;
+background: radial-gradient(rgb(12, 12, 171) ,rgb(104, 3, 104), rgb(168, 47, 67))
+}
