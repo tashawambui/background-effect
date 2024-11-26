@@ -13,3 +13,14 @@ height: 250px;
 width: 400px;
 background: radial-gradient(rgb(12, 12, 171) ,rgb(104, 3, 104), rgb(168, 47, 67))
 }
+#div4{
+height: 400px;
+width: 400px;
+animation: anime 5s infinite;
+}
+@keyframes anime{
+0%{background-color: navy;}
+30%{background-color: aqua;}
+60%{background-color: purple ;}
+100%{background-color: rgb(130, 15, 15);}
+}
